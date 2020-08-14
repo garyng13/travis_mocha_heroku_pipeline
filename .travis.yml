@@ -5,4 +5,4 @@ deploy:
   provider: heroku
   app: express-tutorial
   api_key:
-    secure: TLcy5QZ3SimYNndcIcUXYGKgWBDOYdfx6T9erNVZtOAnGvHK1b0g4rJnCYr19N0m5aBKE3Pkteq8zz6hPq+VhtnJRnv5FJ+krBLz5nZkaPdjuHyh1909jXdqSCnB8fNU6tjVavnnJSO9KY3rRbSDarsMTLAhXcPOGjIpj15FkAE=
+    secure: 55e21159-3373-450f-8240-655893934c1f
